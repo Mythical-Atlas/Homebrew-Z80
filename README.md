@@ -5,7 +5,7 @@ A homebrew computer project using a Zilog Z80 and an Arduino Uno.
 
 - A ROM programmer using a custom-designed PCB and an Arduino Uno. This receives ROM files over a serial connection and writes them to an EEPROM chip.
 
-![pcb image](/Photos/PCB.jpg)
+![pcb image](/Photos/PCB.png)
 
 - A Windows application to facilitate transferring ROM files to the ROM programmer.
 
