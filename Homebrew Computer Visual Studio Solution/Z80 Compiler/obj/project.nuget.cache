@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MbAlW1+lWqG4c3OR4pJGa6MKHXcKSr9ct3w3CrtkKBrjy/CWbiID0OJGINRi3R3MYhuf8nyNHCU+ingOdKgEug==",
+  "success": true,
+  "projectFilePath": "D:\\Other\\Visual Studio Projects\\Homebrew Computer\\Z80 Compiler\\Z80 C Compiler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\nstack.core\\0.16.0\\nstack.core.0.16.0.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\terminal.gui\\1.4.0\\terminal.gui.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

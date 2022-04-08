@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Z80 Emulator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"../../../../Z80 Compiler/bin/Debug/net6.0/TestROM.rom\""
+    }
+  }
+}

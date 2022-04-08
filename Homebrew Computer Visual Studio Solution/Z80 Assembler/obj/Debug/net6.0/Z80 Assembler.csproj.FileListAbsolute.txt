@@ -1,0 +1,20 @@
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\Z80 Assembler.csproj.AssemblyReference.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\Z80 Assembler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\Z80 Assembler.AssemblyInfoInputs.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\Z80 Assembler.AssemblyInfo.cs
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\Z80 Assembler.csproj.CoreCompileInputs.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\bin\Debug\net6.0\Z80 Assembler.exe
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\bin\Debug\net6.0\Z80 Assembler.deps.json
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\bin\Debug\net6.0\Z80 Assembler.runtimeconfig.json
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\bin\Debug\net6.0\Z80 Assembler.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\bin\Debug\net6.0\Z80 Assembler.pdb
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\Z80 Assembler.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\refint\Z80 Assembler.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\Z80 Assembler.pdb
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\Z80 Assembler.genruntimeconfig.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\ref\Z80 Assembler.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\bin\Debug\net6.0\Zilog Z80 Processor.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\bin\Debug\net6.0\Zilog Z80 Processor.pdb
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\obj\Debug\net6.0\Z80 Assembler.csproj.CopyComplete
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\bin\Debug\net6.0\NStack.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Assembler\bin\Debug\net6.0\Terminal.Gui.dll

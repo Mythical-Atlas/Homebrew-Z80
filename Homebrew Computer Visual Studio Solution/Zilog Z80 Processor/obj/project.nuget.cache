@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jd09fZFbqEmxnrx+sE86Rdd8sFJMB4uSD+qc2xPWEO1pbaBigFe66ctDQFd8fG28rU5n8675scSd0MSXAggSFg==",
+  "success": true,
+  "projectFilePath": "D:\\Other\\Visual Studio Projects\\Homebrew Computer\\Zilog Z80 Processor\\Zilog Z80 Processor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\nstack.core\\0.16.0\\nstack.core.0.16.0.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\terminal.gui\\1.4.0\\terminal.gui.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

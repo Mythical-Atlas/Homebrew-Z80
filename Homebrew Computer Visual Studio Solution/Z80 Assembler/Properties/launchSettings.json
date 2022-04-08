@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Z80 Assembler": {
+      "commandName": "Project",
+      "commandLineArgs": "TestProgram.asm"
+    }
+  }
+}

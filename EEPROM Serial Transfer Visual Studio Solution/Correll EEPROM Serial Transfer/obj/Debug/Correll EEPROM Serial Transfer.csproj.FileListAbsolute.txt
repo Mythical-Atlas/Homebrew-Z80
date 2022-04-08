@@ -1,0 +1,14 @@
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\bin\Debug\Correll EEPROM Serial Transfer.exe.config
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\bin\Debug\Correll EEPROM Serial Transfer.exe
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\bin\Debug\Correll EEPROM Serial Transfer.pdb
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\obj\Debug\Correll EEPROM Serial Transfer.csproj.AssemblyReference.cache
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\obj\Debug\Correll_EEPROM_Serial_Transfer.Form1.resources
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\obj\Debug\Correll_EEPROM_Serial_Transfer.Properties.Resources.resources
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\obj\Debug\Correll EEPROM Serial Transfer.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\obj\Debug\Correll EEPROM Serial Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\obj\Debug\Correll EEPROM Serial Transfer.exe
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\obj\Debug\Correll EEPROM Serial Transfer.pdb
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\bin\Debug\Correll EEPROM Serial Transfer.exe.manifest
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\bin\Debug\Correll EEPROM Serial Transfer.application
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\obj\Debug\Correll EEPROM Serial Transfer.exe.manifest
+C:\Users\Ben\source\repos\Correll EEPROM Serial Transfer\Correll EEPROM Serial Transfer\obj\Debug\Correll EEPROM Serial Transfer.application

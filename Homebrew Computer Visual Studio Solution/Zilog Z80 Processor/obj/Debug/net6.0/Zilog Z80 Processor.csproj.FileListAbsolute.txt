@@ -1,0 +1,12 @@
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\bin\Debug\net6.0\Zilog Z80 Processor.deps.json
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\bin\Debug\net6.0\Zilog Z80 Processor.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\bin\Debug\net6.0\Zilog Z80 Processor.pdb
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\obj\Debug\net6.0\Zilog Z80 Processor.csproj.AssemblyReference.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\obj\Debug\net6.0\Zilog Z80 Processor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\obj\Debug\net6.0\Zilog Z80 Processor.AssemblyInfoInputs.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\obj\Debug\net6.0\Zilog Z80 Processor.AssemblyInfo.cs
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\obj\Debug\net6.0\Zilog Z80 Processor.csproj.CoreCompileInputs.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\obj\Debug\net6.0\Zilog Z80 Processor.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\obj\Debug\net6.0\refint\Zilog Z80 Processor.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\obj\Debug\net6.0\Zilog Z80 Processor.pdb
+D:\Other\Visual Studio Projects\Homebrew Computer\Zilog Z80 Processor\obj\Debug\net6.0\ref\Zilog Z80 Processor.dll

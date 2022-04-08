@@ -1,0 +1,18 @@
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\bin\Debug\net6.0\Z80 C Compiler.exe
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\bin\Debug\net6.0\Z80 C Compiler.deps.json
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\bin\Debug\net6.0\Z80 C Compiler.runtimeconfig.json
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\bin\Debug\net6.0\Z80 C Compiler.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\bin\Debug\net6.0\Z80 C Compiler.pdb
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\bin\Debug\net6.0\NStack.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\bin\Debug\net6.0\Terminal.Gui.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\Z80 C Compiler.csproj.AssemblyReference.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\Z80 C Compiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\Z80 C Compiler.AssemblyInfoInputs.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\Z80 C Compiler.AssemblyInfo.cs
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\Z80 C Compiler.csproj.CoreCompileInputs.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\Z80 C Compiler.csproj.CopyComplete
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\Z80 C Compiler.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\refint\Z80 C Compiler.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\Z80 C Compiler.pdb
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\Z80 C Compiler.genruntimeconfig.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Compiler\obj\Debug\net6.0\ref\Z80 C Compiler.dll

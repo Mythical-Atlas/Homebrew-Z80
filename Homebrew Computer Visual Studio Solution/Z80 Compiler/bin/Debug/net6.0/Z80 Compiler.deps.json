@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Z80 Compiler/1.0.0": {
+        "runtime": {
+          "Z80 Compiler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Z80 Compiler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

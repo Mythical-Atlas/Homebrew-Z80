@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ppbEou59Hukh7ZGrLgzHukEckwBP9a0ta6bJq+89EITZBO8MNp+RPXRean5tQwxykU+ME4I6dPy3bbxTtKZNww==",
+  "success": true,
+  "projectFilePath": "D:\\Other\\Visual Studio Projects\\Homebrew Computer\\Z80 Emulator\\Z80 Emulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\nstack.core\\0.16.0\\nstack.core.0.16.0.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\terminal.gui\\1.4.0\\terminal.gui.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

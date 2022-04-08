@@ -1,0 +1,20 @@
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\Z80 Emulator.csproj.AssemblyReference.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\Z80 Emulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\Z80 Emulator.AssemblyInfoInputs.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\Z80 Emulator.AssemblyInfo.cs
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\Z80 Emulator.csproj.CoreCompileInputs.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\bin\Debug\net6.0\Z80 Emulator.exe
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\bin\Debug\net6.0\Z80 Emulator.deps.json
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\bin\Debug\net6.0\Z80 Emulator.runtimeconfig.json
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\bin\Debug\net6.0\Z80 Emulator.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\bin\Debug\net6.0\Z80 Emulator.pdb
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\bin\Debug\net6.0\Zilog Z80 Processor.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\bin\Debug\net6.0\Zilog Z80 Processor.pdb
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\Z80 Emulator.csproj.CopyComplete
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\Z80 Emulator.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\refint\Z80 Emulator.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\Z80 Emulator.pdb
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\Z80 Emulator.genruntimeconfig.cache
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\obj\Debug\net6.0\ref\Z80 Emulator.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\bin\Debug\net6.0\NStack.dll
+D:\Other\Visual Studio Projects\Homebrew Computer\Z80 Emulator\bin\Debug\net6.0\Terminal.Gui.dll
